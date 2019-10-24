@@ -4,4 +4,6 @@ $pkg install git
 $pip2 install mechanize 
 $pip2 install Requests
 $git clone  https://github.com/ZenTul/HackFb
-$cd 
+$cd HackFb
+$ls
+$
