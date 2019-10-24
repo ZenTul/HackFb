@@ -6,4 +6,4 @@ $pip2 install Requests
 $git clone  https://github.com/ZenTul/HackFb
 $cd HackFb
 $ls
-$
+$HackFbVIP.py
